@@ -1,4 +1,4 @@
-# Python stript for real time streaming of twitter trends
+# Python script for real time streaming of twitter trends
 
 ## Python script
 
